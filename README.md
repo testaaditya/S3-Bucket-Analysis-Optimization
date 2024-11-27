@@ -13,8 +13,6 @@ This repository contains a Python script to analyze and optimize S3 bucket metad
 - Python 3.12.3
 - AWS CLI (Optional, for cleanup and archival)
 
-  
-## Installation
 
 1. Clone the repository:
    ```bash
